@@ -1,4 +1,4 @@
-# Codecademy: Magic Eight Ball
+# Codecademy: Rock, Paper, Scissors
 Project from Codecademy to build a game of Rock, Paper, Scissors to learn Javascript Functions.
 
 ## Running the Project
