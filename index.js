@@ -43,13 +43,11 @@ const getUserChoice = userInput => {
         return "Congratulations, you won!";
       } 
       if (userChoice === 'bomb') {
-        if (computerChoice === 'rock', 'paper', 'scissors');
        return "Congratulations, you won!";
       }
     };
     const playGame = () => {
-      const userChoice
-      = getUserChoice('paper');
+      const userChoice = getUserChoice('paper');
       const computerChoice = getComputerChoice();
       console.log('You threw: ' + userChoice);
       console.log('The computer threw: ' + computerChoice);
